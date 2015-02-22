@@ -1,0 +1,19 @@
+body {
+    display: table;
+}
+
+div#left-column {
+    display: table-cell;
+    width: 500px;
+    height: 600px;
+}
+div#right-column {
+    display: table-cell;
+    width: 600px;
+    height: 800px;
+}
+
+textarea {
+    width: 800px;
+    height: 500px;
+}

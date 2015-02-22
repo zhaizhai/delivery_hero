@@ -1,0 +1,3 @@
+#!/bin/bash
+
+coffee scripts/build.coffee example.coffee > compiled_js/example.js
